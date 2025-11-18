@@ -1,0 +1,19 @@
+# entorno virtual
+myvenv/
+venv/
+
+# bytecode
+__pycache__/
+*.pyc
+
+# archivos de buildozer
+bin/
+.buildozer/
+
+# metadatos raros de Windows
+*:Zone.Identifier
+
+# archivos de build
+build/
+dist/
+
